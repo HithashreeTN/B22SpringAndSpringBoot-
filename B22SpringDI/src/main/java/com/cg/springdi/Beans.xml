@@ -8,8 +8,8 @@
 </bean>
 
 <bean id="Student2" class="com.cg.springdi.Student"> 
-<constructor-arg name="studentName" value="Ishuu"> </constructor-arg>
-<constructor-arg name="registerNo" value="102"> </constructor-arg>
+<constructor-arg name="studentName" value="Hithashree"> </constructor-arg>
+<constructor-arg name="registerNo" value="101"> </constructor-arg>
 </bean> -->
 <bean id="MathChit" class="com.cg.springdi1.MathCheat"> </bean>
 <bean id="Student1" class="com.cg.springdi1.Student">
